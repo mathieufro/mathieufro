@@ -6,7 +6,7 @@ The conviction behind all of it: AI done well does not replace people. It takes 
 
 ## Hardware
 
-I also build audio hardware. At Embodme that means the Erae, a touch instrument you can see in action on [Instagram](https://www.instagram.com/embodme/). On the side, [Fine Line](https://www.instagram.com/fineline.audio/): a coherent three-way PA module built around a parametric waveguide I optimise with my own BEM solver, plus its analog and DSP electronics. Before that, [Norand](https://www.instagram.com/norand.synth/): a synthesizer company I founded, where I designed and built every instrument. The project is now closed. The hardware repositories are private for now.
+I also build audio hardware. At Embodme that means the Erae, a touch instrument you can see in action on [Instagram](https://www.instagram.com/embodme/). On the side, [Fine Line](https://www.instagram.com/fineline.audio/): a coherent three-way PA module built around a parametric waveguide I optimise with my own BEM solver, plus its analog and DSP electronics. Before that, [Norand](https://www.instagram.com/norand.synth/): a one-person synthesizer company I founded and ran alone, designing and building every instrument myself. The project is now closed. The hardware repositories are private for now.
 
 ## What is here
 
