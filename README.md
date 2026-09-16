@@ -14,4 +14,4 @@ Liaison, the agent-native business platform these tools were built to ship, live
 
 ## Consulting
 
-I help teams, whatever their function, put agents into their work the way I did in mine: the agent proposes, a human decides, the people who do the job teach the system, and we measure in time given back. The easiest way to reach me is LinkedIn (link in the profile sidebar) or an issue on this repository.
+I help teams, whatever their function, put agents into their work the way I did in mine: the agent proposes, a human decides, the people who do the job teach the system, and we measure in time given back. The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/mathieu-frohlich-1a348b90/).
