@@ -4,6 +4,10 @@ CTO at [Embodme](https://embodme.com), where we make electronic musical instrume
 
 The conviction behind all of it: AI done well does not replace people. It takes the mechanical part of the work and gives people their time back, and what they do with that time is where the value is.
 
+## Hardware
+
+I also build audio hardware. At Embodme that means the Erae, a touch instrument you can see in action on [Instagram](https://www.instagram.com/embodme/). On the side, Fine Line: a coherent three-way PA module built around a parametric waveguide I optimise with my own BEM solver, plus its analog and DSP electronics. Those repositories are private for now.
+
 ## What is here
 
 - **[atelier](https://github.com/mathieufro/atelier)**: autonomous coding pipelines for VS Code. Brainstorm, spec, plan, build, fresh-eyes review, test, with a human only where it matters.
