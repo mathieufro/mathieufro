@@ -1,12 +1,12 @@
 # Mathieu Frohlich
 
-CTO at [Embodme](https://embodme.com), where we make electronic musical instruments. For the past year I have been building the agentic systems that run the company's support functions: customer support, logistics, invoicing, prospecting, social listening. Small team, used every day.
+Co-founder and CTO of [Embodme](https://embodme.com), where we make electronic musical instruments. For the past year I have been building the agentic systems that run the company's support functions: customer support, logistics, invoicing, prospecting, social listening. Small team, used every day.
 
 The conviction behind all of it: AI done well does not replace people. It takes the mechanical part of the work and gives people their time back, and what they do with that time is where the value is.
 
 ## Hardware
 
-I also build audio hardware. At Embodme that means the Erae, a touch instrument you can see in action on [Instagram](https://www.instagram.com/embodme/). On the side, [Fine Line](https://www.instagram.com/fineline.audio/): a coherent three-way PA module built around a parametric waveguide I optimise with my own BEM solver, plus its analog and DSP electronics. Before that, [Norand](https://www.instagram.com/norand.synth/): a one-person synthesizer company I founded, where I design and build every instrument.
+I also build audio hardware. At Embodme that means the Erae, a touch instrument you can see in action on [Instagram](https://www.instagram.com/embodme/). On the side, [Fine Line](https://www.instagram.com/fineline.audio/), which I co-founded: a coherent three-way PA module built around a parametric waveguide I optimise with my own BEM solver, plus its analog and DSP electronics. Before that, [Norand](https://www.instagram.com/norand.synth/): a one-person synthesizer company I founded, where I design and build every instrument.
 
 ## What is here
 
